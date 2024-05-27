@@ -1,13 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🫀
 
-<!--
-**analima2024/analima2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- meu nome e ana lima
 
-Here are some ideas to get you started:
+- estou  estudando no [alura](https//www.alura.com.br)
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- meu intagrm e ana lima 
-- gosto de fazer amizade novas
-- gosto de comer doce 
-- 
+- ## voce pode entrar em contato comigo
 
--->
+- 00001109855400SP@al.educacao.sp.gov.br
+
+- @pvd.analima2024
+
+  
